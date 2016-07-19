@@ -1,0 +1,33 @@
+* {
+    font-family: 'Amatic SC', cursive;
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: #ebb344;
+}
+
+.jumbotron h1 {
+    font-size: 100px;
+    margin-bottom: 0px;
+}
+
+.jumbotron h2 {
+    margin-top: 0px;
+}
+
+.largeFont {
+    font-size: 30px;
+    background-color: rgba(17, 59, 89, 0.5);
+    color: white;
+}
+
+.list-group-item {
+    background-color: rgba(17, 59, 89, 0.5);
+    color: white;
+}
+
+body {
+    background-image: url("http://i764.photobucket.com/albums/xx286/lightsatnight/harry-potter-14.jpg");
+    background-size: cover;
+}
